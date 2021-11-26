@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Mayur
 
 - 🔭 I’m currently working on React, Django
-- 🌱 I’m currently learning Deno, Svelte, GraphQL
+- 🌱 I’m currently learning Deno, Svelte, SvelteKit, GraphQL
 
 ### 🏆 GitHub Profile Trophy:
 ---
